@@ -18,7 +18,3 @@ func climb(n int) {
 	print(l[1])
 	return
 }
-
-func climbm(n int, m int) {
-
-}
